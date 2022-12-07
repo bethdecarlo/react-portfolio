@@ -1,3 +1,4 @@
+//Header, Footer, About, Resume, Contact, Portfolio
 import React, { Component } from 'react';
 import $ from 'jquery';
 import './App.css';

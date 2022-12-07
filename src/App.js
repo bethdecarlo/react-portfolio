@@ -1,11 +1,55 @@
-import React from "react";
-// We import our Greeting component from the components folder so that we can eventually return it
-import Greeting from "./components/Greeting";
+import React, { Component } from 'react';
+import $ from 'jquery';
+import './App.css';
+import Header from './Components/Header';
+import Footer from './Components/Footer';
+import About from './Components/About';
+import Resume from './Components/Resume';
+import Contact from './Components/Contact';
+import Portfolio from './Components/Portfolio';
 
-// App is our main component at the top level of our App that references other components
-function App() {
-  return <Greeting />;
+class App extends Component {
+
+  constructor(props){
+    super(props);
+    this.state = {
+      foo: 'bar',
+      resumeData: {}
+    };
+
+  }
+
+  getResumeData(){
+    $.ajax({
+      url:'./resumeData.json',
+      dataType:'json',
+      cache: false,
+      success: function(data){
+        this.setState({resumeData: data});
+      }.bind(this),
+      error: function(xhr, status, err){
+        console.log(err);
+        alert(err);
+      }
+    });
+  }
+
+  componentDidMount(){
+    this.getResumeData();
+  }
+
+  render() {
+    return (
+      <div className="App">
+        <Header data={this.state.resumeData.main}/>
+        <About data={this.state.resumeData.main}/>
+        <Resume data={this.state.resumeData.resume}/>
+        <Portfolio data={this.state.resumeData.portfolio}/>
+        <Contact data={this.state.resumeData.main} repos={this.state.resumeData.portfolio}/>
+        <Footer data={this.state.resumeData.main}/>
+      </div>
+    );
+  }
 }
 
-// Here we export the App component so that it can be made available in `index.js`
 export default App;

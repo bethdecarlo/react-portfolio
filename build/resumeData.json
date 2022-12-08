@@ -1,0 +1,184 @@
+{
+  "main": {
+    "name":"Beth DeCarlo",
+    "description":"Web Developer",
+    "image":"profilepic.jpg",
+    "bio":"Hi, I'm Beth DeCarlo, a web developer with experience in design. I have a Bachelor of Fine Arts degree from the University of Central Florida. I am also certified in Full Stack Web Development from my alma mater. Whether I am designing marketing materials or building an application, my passion lies in collaborative creativity and problem solving. ",
+    "contactmessage":"Let's chat! I'm currently looking for employment opportunities, freelance projects, and open source collaboration.",
+    "email": "bethdecarlo@gmail.com",
+    "phone": "407-474-9676",
+    "github":"https://github.com/bethdecarlo",
+    "project":"https://www.linkedin.com/in/bethdecarlo",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Orlando",
+      "state":"FL",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "https://github.com/bethdecarlo",
+    "resumedownload":"https://docs.google.com/document/d/1M4C7V_BkAWHnBJMEa8Ev6NVajysav-ZyNnxpBg7fG2c/edit?usp=sharing",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/bethdecarlo",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/bethdecarlo",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"* Each skill level is weighted in correlation to the remaining skills",
+    "education":[
+      {
+        "school":"University of Central Florida",
+        "gpa": "Grade: A",
+        "degree":"Coding Bootcamp Certificate - Division of Continuing Education",
+        "graduated":"December 2022",
+        "description":"Coursework Included: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Handlebars, React.js, Node.js, MongoDB, MySQL, Git"
+      },
+      {
+        "school":"University of Central Florida",
+        "gpa": "Cum Laude, Pegasus Scholarship",
+        "degree":"Bachelor of Fine Arts- College of Arts and Humanities",
+        "graduated":"May 2008",
+        "description":"Coursework Included: Elements of Design, 2D Design, 3D Design, Adobe Photoshop, Adobe Illustrator, AutoCAD"
+      }
+    ],
+    "work":[
+      {
+        "company":"Employer",
+        "title":"Teacher",
+        "years":"September 2010 - Present",
+        "description":"Teacher Description"
+      },
+      {
+        "company":"Employer",
+        "title":"Graphic Designer",
+        "years":"July 2008- Present",
+        "description":"Designer Description"
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML / CSS / Bootstrap",
+        "level":"93%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"40%"
+      },
+      {
+        "name":"MongoDB / Mongoose",
+        "level":"40%"
+      },
+      {
+        "name":"Terminal / Git",
+        "level":"80%"
+      },
+      {
+        "name":"NodeJS / ExpressJS",
+        "level":"80%"
+      },
+      {
+        "name":"MySQL / Sequelize",
+        "level":"60%"
+      },
+      {
+        "name":"JavaScript / jQuery",
+        "level":"90%"
+      },
+      {
+        "name":"REST APIs",
+        "level":"65%"
+      },
+      {
+        "name":"C-Programming",
+        "level":"10%"
+      },
+      {
+        "name":"Amazon Web Services / Serverless",
+        "level":"5%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Cryptofolio",
+        "shorttitle": "Cryptofolio",
+        "category":"UCF Project",
+        "image":"crypto.png",
+        "info":"Node.js, Express, Sequelize, Handlebars, CSS, Bootstrap",
+        "url":"https://vast-gorge-15693.herokuapp.com/",
+        "repo":"https://github.com/bethdecarlo/MVC-cryptofolio"
+      },
+      {
+        "title":"Travel Buddy",
+        "shorttitle": "Travel Buddy",
+        "category":"UCF Project",
+        "image":"travelbuddy.PNG",
+        "info":"HTML, CSS, JS, Google Maps API, AviationStack API",
+        "url":"https://joseobm92.github.io/Travel-Buddy/",
+        "repo":"https://github.com/bethdecarlo/Travel-Buddy"
+      },
+      {
+        "title":"Notorious Note Taker",
+        "shorttitle": "Notorious",
+        "category":"UCF Project",
+        "image":"notorious.png",
+        "info":"HTML, CSS, JS, Express, MySQL ",
+        "url":"https://notorious-note-taker.herokuapp.com/",
+        "repo":"https://github.com/bethdecarlo/notorious-note-taker-app"
+      },
+      {
+        "title":"Professional README Generator",
+        "shorttitle": "PRGEN",
+        "category":"UCF Project",
+        "image":"prgen.png",
+        "info":"JS, Node.js, Inquirer",
+        "url":"https://github.com/bethdecarlo/professional-readme-generator",
+        "repo":"https://github.com/bethdecarlo/professional-readme-generator"
+      },
+      {
+        "title":"Team Profile Generator",
+        "shorttitle": "TPGEN",
+        "category":"UCF Project",
+        "image":"tpgen.PNG",
+        "info":"HTML, CSS, JS, Jest, Inquirer",
+        "url":"https://github.com/bethdecarlo/team-profile-generator",
+        "repo":"https://github.com/bethdecarlo/team-profile-generator"
+      },
+      {
+        "title":"Social Network API",
+        "shorttitle": "SNAPI",
+        "category":"UCF Project",
+        "image":"snapi.PNG",
+        "info":"JS, Node.js, MongoDB",
+        "url":"https://github.com/bethdecarlo/social-network-api",
+        "repo":"https://github.com/bethdecarlo/social-network-api"
+      },
+      {
+        "title":"Weather Dashboard",
+        "shorttitle": "Weather Dashboard",
+        "category":"UCF Project",
+        "image":"weatherDashboard.png",
+        "info":"HTML, CSS, Bootstrap, JS, jQuery, OpenWeather API",
+        "url":"https://bethdecarlo.github.io/weather-dashboard/",
+        "repo":"https://github.com/bethdecarlo/weather-dashboard"
+      },
+      {
+        "title":"Cruelty Free Family",
+        "shorttitle": "CFFAM",
+        "category":"co-collaborator: Annessia Maillet",
+        "image":"cffam.PNG",
+        "info":"Wordpress, Adobe Photoshop",
+        "url":"http://crueltyfreefamily.com/",
+        "repo":"http://crueltyfreefamily.com/"
+      }
+    ]
+  }
+}

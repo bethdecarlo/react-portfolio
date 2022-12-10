@@ -3,7 +3,7 @@
     "name":"Beth DeCarlo",
     "description":"Web Developer",
     "image":"profilepic.jpg",
-    "bio":"Hi, I'm Beth DeCarlo, a developer with a background in design and education. My favortie thing about software development is that I get to live out my dream of being a lifelong learner. My passion lies in research, collaboration and problem solving. Let's build something awesome together!",
+    "bio":"Hi, I'm Beth DeCarlo, a web developer with experience in design. I have a Bachelor of Fine Arts degree from the University of Central Florida. I am also certified in Full Stack Web Development from my alma mater. Whether I am designing marketing materials or building an application, my passion lies in collaborative creativity and problem solving. ",
     "contactmessage":"Let's chat! I'm currently looking for employment opportunities, freelance projects, and open source collaboration.",
     "email": "bethdecarlo@gmail.com",
     "phone": "407-474-9676",
@@ -36,30 +36,30 @@
       {
         "school":"University of Central Florida",
         "gpa": "Grade: A",
-        "degree":"Full Stack Web Development Certificate - Division of Continuing Education",
+        "degree":"Coding Bootcamp Certificate - Division of Continuing Education",
         "graduated":"December 2022",
-        "description":"Coursework: MERN, HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Handlebars, React.js, Node.js, MongoDB, MySQL, GraphQL, Git"
+        "description":"Coursework Included: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Handlebars, React.js, Node.js, MongoDB, MySQL, Git"
       },
       {
         "school":"University of Central Florida",
         "gpa": "Cum Laude, Pegasus Scholarship",
         "degree":"Bachelor of Fine Arts- College of Arts and Humanities",
         "graduated":"May 2008",
-        "description":"Coursework Included: Graphic Design, Fundementals of Design, Drawing Fundamentals, 2D Design, 3D Design, Adobe Photoshop, Adobe Illustrator "
+        "description":"Coursework Included: Elements of Design, 2D Design, 3D Design, Adobe Photoshop, Adobe Illustrator, AutoCAD"
       }
     ],
     "work":[
       {
-        "company":"Graphic Designer",
-        "title":"Freelance | Orlando, FL",
-        "years":"June 2008 - Present",
-        "description":"Designed consumer products, marketing, and social media designs for small businesses. Utilized Adobe Creative Suite, Canva, and Figma to create engaging and successful materials for clients. "
+        "company":"Employer",
+        "title":"Teacher",
+        "years":"September 2010 - Present",
+        "description":"Teacher Description"
       },
       {
-        "company":"Teaching Staff",
-        "title":"Seminole County Public Schools | Arbor School of Florida",
-        "years":"August 2011- May 2022",
-        "description":"Enthusiatic STEAM educator for K-12 students. Experience in ESE education and Individialized Education Plans. Certified TSEL Teacher."
+        "company":"Employer",
+        "title":"Graphic Designer",
+        "years":"July 2008- Present",
+        "description":"Designer Description"
       }
     ],
     "skills":[

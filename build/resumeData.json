@@ -111,9 +111,9 @@
         "title":"Cryptofolio",
         "shorttitle": "Cryptofolio",
         "category":"UCF Project",
-        "image":"crypto.png",
+        "image":"cryptofolio.png",
         "info":"Node.js, Express, Sequelize, Handlebars, CSS, Bootstrap",
-        "url":"https://vast-gorge-15693.herokuapp.com/",
+        "url":"https://radiant-lowlands-48817.herokuapp.com/",
         "repo":"https://github.com/bethdecarlo/MVC-cryptofolio"
       },
       {
@@ -126,35 +126,35 @@
         "repo":"https://github.com/bethdecarlo/Travel-Buddy"
       },
       {
-        "title":"Notorious Note Taker",
-        "shorttitle": "Notorious",
+        "title":"JavaScript Quiz",
+        "shorttitle": "Quiz",
         "category":"UCF Project",
-        "image":"notorious.png",
-        "info":"HTML, CSS, JS, Express, MySQL ",
-        "url":"https://notorious-note-taker.herokuapp.com/",
-        "repo":"https://github.com/bethdecarlo/notorious-note-taker-app"
+        "image":"quiz.png",
+        "info":"HTML, CSS, JS",
+        "url":"https://bethdecarlo.github.io/coding-quiz/",
+        "repo":"https://github.com/bethdecarlo/coding-quiz"
       },
       {
         "title":"Professional README Generator",
-        "shorttitle": "PRGEN",
+        "shorttitle": "Readme Generator",
         "category":"UCF Project",
-        "image":"prgen.png",
+        "image":"readme.png",
         "info":"JS, Node.js, Inquirer",
         "url":"https://github.com/bethdecarlo/professional-readme-generator",
         "repo":"https://github.com/bethdecarlo/professional-readme-generator"
       },
       {
         "title":"Team Profile Generator",
-        "shorttitle": "TPGEN",
+        "shorttitle": "Profile Generator",
         "category":"UCF Project",
-        "image":"tpgen.PNG",
+        "image":"team.PNG",
         "info":"HTML, CSS, JS, Jest, Inquirer",
         "url":"https://github.com/bethdecarlo/team-profile-generator",
         "repo":"https://github.com/bethdecarlo/team-profile-generator"
       },
       {
         "title":"Social Network API",
-        "shorttitle": "SNAPI",
+        "shorttitle": "Social Network API",
         "category":"UCF Project",
         "image":"snapi.PNG",
         "info":"JS, Node.js, MongoDB",
@@ -165,16 +165,16 @@
         "title":"Weather Dashboard",
         "shorttitle": "Weather Dashboard",
         "category":"UCF Project",
-        "image":"weatherDashboard.png",
+        "image":"weather.png",
         "info":"HTML, CSS, Bootstrap, JS, jQuery, OpenWeather API",
         "url":"https://bethdecarlo.github.io/weather-dashboard/",
         "repo":"https://github.com/bethdecarlo/weather-dashboard"
       },
       {
         "title":"Cruelty Free Family",
-        "shorttitle": "CFFAM",
-        "category":"co-collaborator: Annessia Maillet",
-        "image":"cffam.PNG",
+        "shorttitle": "Cruelty Free Family",
+        "category":"Personal Project",
+        "image":"cff.PNG",
         "info":"Wordpress, Adobe Photoshop",
         "url":"http://crueltyfreefamily.com/",
         "repo":"http://crueltyfreefamily.com/"

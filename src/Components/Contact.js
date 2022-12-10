@@ -100,12 +100,7 @@ class Contact extends Component {
 					   </p>
 				   </div>
 
-               <div className="widget widget_repos">
-                  <h4 className="widget-title">Github Repositories</h4>
-                  <ul id="repos">
-                     {projectRepos}
-                  </ul>
-		         </div>
+
             </aside>
       </div>
    </section>

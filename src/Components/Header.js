@@ -28,6 +28,8 @@ class Header extends Component {
 	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
             <li><a className="smoothscroll" href="#portfolio">Works</a></li>
             <li><a className="smoothscroll" href="#contact">Contact</a></li>
+            <li className="social-links">{networks}</li>
+           
          </ul>
       </nav>
 
@@ -37,10 +39,6 @@ class Header extends Component {
             <h1 className="responsive-headline">{name}</h1>
             <h3>{description}.</h3>
             <hr />
-            <ul className="social">
-               <a href={project} target="_blank" className="button btn github-btn"><i className="fa fa-linkedin"></i>LinkedIn</a>
-               <a href={github} target="_blank" className="button btn github-btn"><i className="fa fa-github"></i>Github</a>
-            </ul>
          </div>
       </div>
 

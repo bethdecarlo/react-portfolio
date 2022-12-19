@@ -135,7 +135,7 @@
         "title":"Travel Buddy",
         "shorttitle": "Travel Buddy",
         "category":"UCF Project",
-        "image":"trav.PNG",
+        "image":"trav.png",
         "info":"HTML, CSS, JS, RESTful API",
         "url":"https://joseobm92.github.io/Travel-Buddy/",
         "repo":"https://github.com/bethdecarlo/Travel-Buddy"
@@ -144,10 +144,47 @@
         "title":"Cruelty Free Family",
         "shorttitle": "Cruelty Free Family",
         "category":"Personal Project",
-        "image":"cff.PNG",
+        "image":"cff.png",
         "info":"Wordpress, Adobe Illustrator, Adobe Photoshop",
         "url":"http://crueltyfreefamily.com/",
         "repo":"http://crueltyfreefamily.com/"
+      }, 
+      ,
+      {
+        "title":"Professional README Generator",
+        "shorttitle": "Readme Generator",
+        "category":"UCF Project",
+        "image":"readme.png",
+        "info":"JS, Node.js, Inquirer",
+        "url":"https://github.com/bethdecarlo/professional-readme-generator",
+        "repo":"https://github.com/bethdecarlo/professional-readme-generator"
+      },
+      {
+        "title":"Team Profile Generator",
+        "shorttitle": "Profile Generator",
+        "category":"UCF Project",
+        "image":"team.png",
+        "info":"HTML, CSS, JS, Jest, Inquirer",
+        "url":"https://github.com/bethdecarlo/team-profile-generator",
+        "repo":"https://github.com/bethdecarlo/team-profile-generator"
+      },
+      {
+        "title":"Social Network API",
+        "shorttitle": "Social Network API",
+        "category":"UCF Project",
+        "image":"snapi.png",
+        "info":"JS, Node.js, MongoDB",
+        "url":"https://github.com/bethdecarlo/social-network-api",
+        "repo":"https://github.com/bethdecarlo/social-network-api"
+      },
+      {
+        "title":"Weather Dashboard",
+        "shorttitle": "Weather Dashboard",
+        "category":"UCF Project",
+        "image":"weather.png",
+        "info":"HTML, CSS, Bootstrap, JS, jQuery, OpenWeather API",
+        "url":"https://bethdecarlo.github.io/weather-dashboard/",
+        "repo":"https://github.com/bethdecarlo/weather-dashboard"
       }
     ]
   }

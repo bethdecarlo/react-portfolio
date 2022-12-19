@@ -3,7 +3,7 @@
     "name":"Beth DeCarlo",
     "description":"Web Developer",
     "image":"profilepic.jpg",
-    "bio":"Hi, I'm Beth DeCarlo, a web developer with experience in design. I have a Bachelor of Fine Arts degree from the University of Central Florida. I am also certified in Full Stack Web Development from my alma mater. Whether I am designing marketing materials or building an application, my passion lies in collaborative creativity and problem solving. ",
+    "bio":"Hi, I'm Beth DeCarlo, a web developer with experience in graphic design. I have a Bachelor of Fine Arts degree from the University of Central Florida. I am also certified in Full Stack Web Development from my alma mater. Whether I am designing marketing materials or building an application, my passion lies in collaborative creativity and problem solving. ",
     "contactmessage":"Let's chat! I'm currently looking for employment opportunities, freelance projects, and open source collaboration.",
     "email": "bethdecarlo@gmail.com",
     "phone": "407-474-9676",
@@ -35,7 +35,7 @@
     "education":[
       {
         "school":"University of Central Florida",
-        "gpa": "Grade: A",
+        "gpa": "Grade: A, 97.8%",
         "degree":"Coding Bootcamp Certificate - Division of Continuing Education",
         "graduated":"December 2022",
         "description":"Coursework Included: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Handlebars, React.js, Node.js, MongoDB, MySQL, Git"
@@ -50,16 +50,22 @@
     ],
     "work":[
       {
-        "company":"Employer",
-        "title":"Teacher",
-        "years":"September 2010 - Present",
-        "description":"Teacher Description"
+        "company":"Graphic Designer",
+        "title":"Freelance",
+        "years":"July 2008- Present",
+        "description":"Freelance Designer for small and medium sized businesses in the restaurant and interior design industry throughout Central Florida. Duties included logo and brand design, marketing materials, web design, blog creation and management, and social media management. Using Adboe Creative Cloud, Canva, Figma, Wordpress and more. "
       },
       {
-        "company":"Employer",
-        "title":"Graphic Designer",
-        "years":"July 2008- Present",
-        "description":"Designer Description"
+        "company":"Teaching Staff",
+        "title":"Seminole County Public Schools",
+        "years":"September 2010 - May 2022",
+        "description":"K-12 Education for Seminole County Public Schools. Experience in developmental lesson plan design, classroom management, and Individualized Education Plans. TESL Certified."
+      },
+      {
+        "company":"Graphic Design Internship",
+        "title":"Walt Disney Entertainment",
+        "years":"May 2008- December 2009",
+        "description":" Graphic design support for Walt Disney's Character Programs and Development. Supported the documentation department in creating graphics, layouts, photo editing, and slideshows. Used Adobe Creative Suite and Microsoft Office."
       }
     ],
     "skills":[
@@ -108,11 +114,20 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Oyster",
+        "shorttitle": "Oyster",
+        "category":"UCF Project",
+        "image":"oyster.png",
+        "info":"MERN Project with GraphQL",
+        "url":"https://hidden-citadel-87642.herokuapp.com/",
+        "repo":"https://github.com/joseobm92/Oyster"
+      },
+      {
         "title":"Cryptofolio",
         "shorttitle": "Cryptofolio",
         "category":"UCF Project",
         "image":"cryptofolio.png",
-        "info":"Node.js, Express, Sequelize, Handlebars, CSS, Bootstrap",
+        "info":"Node.js, Express, Sequelize, RESTful API, Handlebars, CSS, Bootstrap",
         "url":"https://radiant-lowlands-48817.herokuapp.com/",
         "repo":"https://github.com/bethdecarlo/MVC-cryptofolio"
       },
@@ -121,18 +136,18 @@
         "shorttitle": "Travel Buddy",
         "category":"UCF Project",
         "image":"travelbuddy.PNG",
-        "info":"HTML, CSS, JS, Google Maps API, AviationStack API",
+        "info":"HTML, CSS, JS, RESTful API",
         "url":"https://joseobm92.github.io/Travel-Buddy/",
         "repo":"https://github.com/bethdecarlo/Travel-Buddy"
-      },
+      },      
       {
-        "title":"JavaScript Quiz",
-        "shorttitle": "Quiz",
-        "category":"UCF Project",
-        "image":"quiz.png",
-        "info":"HTML, CSS, JS",
-        "url":"https://bethdecarlo.github.io/coding-quiz/",
-        "repo":"https://github.com/bethdecarlo/coding-quiz"
+        "title":"Cruelty Free Family",
+        "shorttitle": "Cruelty Free Family",
+        "category":"Personal Project",
+        "image":"cff.PNG",
+        "info":"Wordpress, Adobe Illustrator, Adobe Photoshop",
+        "url":"http://crueltyfreefamily.com/",
+        "repo":"http://crueltyfreefamily.com/"
       },
       {
         "title":"Professional README Generator",
@@ -169,15 +184,6 @@
         "info":"HTML, CSS, Bootstrap, JS, jQuery, OpenWeather API",
         "url":"https://bethdecarlo.github.io/weather-dashboard/",
         "repo":"https://github.com/bethdecarlo/weather-dashboard"
-      },
-      {
-        "title":"Cruelty Free Family",
-        "shorttitle": "Cruelty Free Family",
-        "category":"Personal Project",
-        "image":"cff.PNG",
-        "info":"Wordpress, Adobe Photoshop",
-        "url":"http://crueltyfreefamily.com/",
-        "repo":"http://crueltyfreefamily.com/"
       }
     ]
   }
